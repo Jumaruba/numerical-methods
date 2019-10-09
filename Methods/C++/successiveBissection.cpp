@@ -13,7 +13,7 @@ long double SB(float a, float b, float error){
         x = (a+b)/2;    //new guess for the root
         if (f(a)*f(x) < 0) b = x;   //b is too large
         else a = x; //a is too large
-        cout <<"n: "<< n++ <<" |a :" << a << "|b: " << b <<"|x: " << x << "|f(a): " << f(a) << "|f(b): " << f(b) << endl;
+        cout <<"n:\t"<< n++ <<"\t" <<"|a:\t" << a <<"\t"<< "|b:\t" << b <<"\t"<<"|x:\t" << x <<"\t"<< "|f(a):\t" << f(a) <<"\t"<< "|f(b):\t" << f(b) <<"\t"<< endl;
     }while(abs(a-b)> error );
 
     return x;
@@ -24,9 +24,9 @@ long double f(long double x){
     //9.3 e 9.5 | 0 e 0.2
     //return x - 2*log(x)-5;
     //0.2 e 0.3| 98 e 100
-    return pow(2,(sqrt(x)))-10*x+1;
+    return exp(0.7*x-pow(x,2)-0.5);
 }
 int main() {
-    cout << SB(98,100, pow(10,-5)) << endl;
+    cout << SB(-1,0, pow(10,-5)) << endl;
     return 0;
 }
