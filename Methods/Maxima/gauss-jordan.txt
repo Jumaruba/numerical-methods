@@ -1,9 +1,0 @@
-m: matrix([1,2,3],[4,5,6],[7,8,9]);     /*exemplo*/ 
-
-for i: 1 thru 3 do(
-  m: rowop(m,i,i,1-1/m[1][1]),
-  for j: 1 thru 3 do( 
-  if (j#i) then m: rowop(m, j,i,m[j][i])
-  ) 
-) 
-print(float(transpose(m[4]))); 
