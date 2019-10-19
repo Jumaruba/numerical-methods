@@ -1,6 +1,6 @@
 import math as m
 
-#estas funcoes devolvem um erro de divisao por zero, mas tentando com outra funcao, da certo
+#funcoes
 def f1(x,y):
 	return 2*x*x-x*y-5*x+1
 def f2(x,y):
@@ -10,7 +10,8 @@ def gx(x,y):						#achando a funcao de x, com f1
 def gy(x,y):						#achando a funcao y, com f2
 	return m.pow(x+3*m.log(x),1/2)
 
-#gauss seil
+#Gauss Seil
+#Metodo de paragem: erro absoluto
 def picardPeano_2_error(x,y, erro):
 	x = 1
 	y = 1
@@ -23,7 +24,7 @@ def picardPeano_2_error(x,y, erro):
 		y = gy(xAnt,y) 
 		print('x: %1.7f\t y:%1.7f\t' %(x,y))
 	
-
+#Metodo de paragem: numero de iterações 
 def picardPeano_2(x,y, max_iter): 
 
 	for i in range(max_iter):
