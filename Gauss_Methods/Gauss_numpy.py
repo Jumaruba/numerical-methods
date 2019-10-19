@@ -1,5 +1,6 @@
 import numpy as np
-from scipy.linalg import lu
+from scipy.linalg import lu 
+#documentation: https://docs.scipy.org/doc/scipy/reference/generated/scipy.linalg.lu.html
 
 np.set_printoptions(formatter={'float': lambda x: "{0:0.10f}".format(x)})  # format the number of decimal cases
 
