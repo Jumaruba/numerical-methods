@@ -5,6 +5,8 @@ __This is the explanation for the file [`Gauss.py`](https://github.com/Jumaruba/
 To understant the _Simple Gauss Algorithm_ it's important you to know how to do the  Gaussian Elimination.  
 If you don't know, brilliant website explains it very well: [`gauss-elimination`](https://brilliant.org/wiki/gaussian-elimination/).
 
+## First function
+
 The first function at the file is rowOp. It basically subtracts one line from the other multiplied by a constant k: 
 ```python
 def rowOp(down, up, k):
@@ -26,6 +28,8 @@ Then we will have this:
   
 ![](https://github.com/Jumaruba/MNUM/blob/master/Images/CodeCogsEqn.gif)
   
+## Second function
+
 Since it's clear how `rowOp` works, let's analyse the second function:  
   
 ```python
