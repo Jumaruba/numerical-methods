@@ -25,3 +25,9 @@ Some code from numeric methods (MIEIC 2st)
 | [Picard Peano Two Variables](https://github.com/Jumaruba/MNUM/blob/master/Real_Zeros_functions/Python/picarPeano_2variables.py) | to add |
 | [Newton Method Two Variable](https://github.com/Jumaruba/MNUM/blob/master/Real_Zeros_functions/Python/newtonMethod_2variables.py) | to add |
 
+### Gauss - Python
+
+|Method Name| Explanation|
+|---|---|
+|[Simple Gauss](https://github.com/Jumaruba/MNUM/blob/master/Gauss_Methods/Gauss.py)| to add|
+
