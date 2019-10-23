@@ -18,16 +18,14 @@ def df1y(x,y):
 
 def df2y(x,y):
 	return -2*y
-
-def jacobian(x,y): 
-	return df1x(x,y)*df2y(x,y)-df1y(x,y)*df2x(x,y)
-
-def newtonMethod_2(y0, x0): 
-	x = x0
-	y = y0
+	
+def newtonMethod_2(x, y): 
 	for i in range(20): 
-		x = x - (f1(x,y)*df2y(x,y)-df1y(x,y)*f2(x,y))/jacobian(x,y)
-		y = y - (df1x(x,y)*f2(x,y) - f2(x,y)*df1x(x,y))/jacobian(x,y)
+		jacobian = df1x(x,y)*df2y(x,y)-df1y(x,y)*df2x(x,y)
+		xn = x - (f1(x,y)*df2y(x,y)-df1y(x,y)*f2(x,y))/jacobian
+		yn = y - (df1x(x,y)*f2(x,y) - f2(x,y)*df1x(x,y))/jacobian
+		y = yn
+		x = xn
 		print('n: {2}\t x: {0:.10f}\t y: {1:.10f}'.format(x,y,i))
 
 newtonMethod_2(1,2)

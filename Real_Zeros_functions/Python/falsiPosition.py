@@ -1,7 +1,7 @@
 import math as m
 
 def f(x):
-	return x - 2*m.log(x)-5;
+	return x - 2*m.log(x)-5
 
 def falsiPosition(a,b): 
 	for i in range(20):
