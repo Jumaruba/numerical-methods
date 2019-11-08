@@ -29,6 +29,7 @@ Some code from numeric methods (MIEIC 2st)
 
 |Method Name| Explanation|
 |---|---|
-|[Simple Gauss](https://github.com/Jumaruba/MNUM/blob/master/Gauss_Methods/Gauss.py)| [readme](https://github.com/Jumaruba/MNUM/tree/master/Gauss_Methods)|
+|[Simple Gauss](https://github.com/Jumaruba/MNUM/blob/master/Gauss_Methods/Gauss.py)| [Algorithm](https://github.com/Jumaruba/MNUM/tree/master/Gauss_Methods) and [Extern Stability](https://github.com/Jumaruba/MNUM/blob/master/Gauss_Methods/Estabilidade_Externa.pdf)|
 |[Simple Gauss with numpy](https://github.com/Jumaruba/MNUM/blob/master/Gauss_Methods/Gauss_numpy.py)| to add|
+
 
