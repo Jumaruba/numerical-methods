@@ -31,5 +31,14 @@ Some code from numeric methods (MIEIC 2st)
 |---|---|
 |[Simple Gauss](https://github.com/Jumaruba/MNUM/blob/master/Gauss_Methods/Gauss.py)| [Algorithm](https://github.com/Jumaruba/MNUM/tree/master/Gauss_Methods) and [Extern Stability](https://github.com/Jumaruba/MNUM/blob/master/Gauss_Methods/Estabilidade_Externa.pdf)|
 |[Simple Gauss with numpy](https://github.com/Jumaruba/MNUM/blob/master/Gauss_Methods/Gauss_numpy.py)| to add|
+|[Gauss Seidel](https://github.com/Jumaruba/MNUM/blob/master/Gauss_Methods/Gauss_Jacobi.py)| to add| 
+|[Gauss Jacobi](https://github.com/Jumaruba/MNUM/blob/master/Gauss_Methods/Gauss_Jacobi.py)|to add| 
+
+### Integrais - Python 
+
+|Method Name| Explanation| 
+|---|---|
+|[Regra dos Trapézios](https://github.com/Jumaruba/MNUM/blob/master/Integrais/Trapezio.py)| [PDF - by Juliane Marubayashi](https://github.com/Jumaruba/MNUM/blob/master/Integrais/Regra_dos_trapezios.pdf)| 
+|[Simpson](https://github.com/Jumaruba/MNUM/blob/master/Integrais/Simpson.py)| to add| 
 
 
