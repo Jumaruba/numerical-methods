@@ -38,7 +38,7 @@ Some code from numeric methods (MIEIC 2st)
 
 |Method Name| Explanation| 
 |---|---|
-|[Regra dos Trapézios](https://github.com/Jumaruba/MNUM/blob/master/Integrais/Trapezio.py)| [PDF - by Juliane Marubayashi](https://github.com/Jumaruba/MNUM/blob/master/Integrais/Regra_dos_trapezios.pdf)| 
+|[Regra dos Trapézios](https://github.com/Jumaruba/MNUM/blob/master/Integrais/Trapezio.py)| [PDF](https://github.com/Jumaruba/MNUM/blob/master/Integrais/Regra_dos_trapezios.pdf)| 
 |[Simpson](https://github.com/Jumaruba/MNUM/blob/master/Integrais/Simpson.py)| to add| 
 
 
