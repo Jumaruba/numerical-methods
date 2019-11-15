@@ -41,5 +41,5 @@ Some code from numeric methods (MIEIC 2st)
 |[Regra dos Trapézios](https://github.com/Jumaruba/MNUM/blob/master/Integrais/Trapezio.py)| [PDF](https://github.com/Jumaruba/MNUM/blob/master/Integrais/Regra_dos_trapezios.pdf)| 
 |[Simpson](https://github.com/Jumaruba/MNUM/blob/master/Integrais/Simpson.py)| to add| 
 |[Euler](https://github.com/Jumaruba/MNUM/blob/master/Integrais/Euler.py)| to add|
-
+|[Runga_Kutta](https://github.com/Jumaruba/MNUM/blob/master/Integrais/Runga_Kutta.py)| to add|
 
