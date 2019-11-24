@@ -24,4 +24,4 @@ def gauss_seidel(x,y,z):
         z = z_(x,y,z)
         print(x,y,z)
 
-gauss_seidel(10,10,10)
+gauss_seidel(2,2,2)
