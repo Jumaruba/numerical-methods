@@ -5,7 +5,8 @@ def y_(x,y,z):
 def z_(x,y,z): 
     return -(-20+8*x-y)/2
 
-
+#antes de começar a fazer a questão note que esta não é uma matriz
+#diagonalmente predominante, logo o metodo diverge!
 def gauss_jacobi(x,y,z):
     for i in range(80): 
         x_anterior = x
