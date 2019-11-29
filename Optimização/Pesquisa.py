@@ -19,20 +19,3 @@ def pesquisa(guess, step):
     return [x0,x1,x2]
 
 lista = pesquisa(2,0.1)
-
-def tercos(a,b,prec):
-    while (abs(b-a) > prec):
-        prop = (b-a)/3
-        c = a+prop
-        d = b-prop
-        if (f(c) > f(d)):
-            a = c
-        else: 
-            b = c
-    if(a == c): 
-        return [c,d,b]
-    else:
-        return [a,c,d]
-
-lista = tercos(3,6,0.0001)
-print(lista) 
