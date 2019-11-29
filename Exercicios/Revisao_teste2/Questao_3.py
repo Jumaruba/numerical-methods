@@ -9,7 +9,6 @@ def trapezio(a,b,n):
     for i in range(1,n):
         total += 2*f(a+i*h)
     total += f(a) + f(b)
-    total *= h/2
     return total
 
 print(trapezio(0,4,4))
