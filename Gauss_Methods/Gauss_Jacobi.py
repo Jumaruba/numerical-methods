@@ -13,7 +13,7 @@ def gaussJacobi(x1,x2,x3):
     x1_ant = x1
     x2_ant = x2
     x3_ant = x3
-    for i in range(30):                                                                                 #caso o criterio de paragem demore muito
+    for i in range(20):                                                                                 #caso o criterio de paragem demore muito
         x1 = _x1(x2_ant, x3_ant)
         x2 = _x2(x1_ant, x3_ant)
         x3 = _x3(x1_ant, x2_ant)
