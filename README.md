@@ -40,6 +40,14 @@ Some code from numeric methods (MIEIC 2st)
 |---|---|
 |[Regra dos Trapézios](https://github.com/Jumaruba/MNUM/blob/master/Integrais/Trapezio.py)| [PDF](https://github.com/Jumaruba/MNUM/blob/master/Integrais/Regra_dos_trapezios.pdf)| 
 |[Simpson](https://github.com/Jumaruba/MNUM/blob/master/Integrais/Simpson.py)| to add| 
-|[Euler](https://github.com/Jumaruba/MNUM/blob/master/Integrais/Euler.py)| to add|
-|[Runga_Kutta](https://github.com/Jumaruba/MNUM/blob/master/Integrais/Runga_Kutta.py)| to add|
+
+### Equações diferenciais - Python 
+
+|Method Name| Explanation| 
+|---|---|
+|[Euler](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/Euler.py) | To add |
+|[Runga Kutta 2](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/RK2.py) | To add |
+|[Runga Kutta 4](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/RK4.py) | To add | 
+|[Runga Kutta 4 - superior order](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/RK4_Sistema_Ordem_superior.py) | To add |
+|[Runka Kutta 4 - systems](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/RK4_Sistemas_diferenciais.py) | To add |
 
