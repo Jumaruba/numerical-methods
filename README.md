@@ -46,7 +46,7 @@ Some code from numeric methods (MIEIC 2st)
 |Method Name| Explanation| 
 |---|---|
 |[Euler](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/Euler.py) | [Image](https://github.com/Jumaruba/MNUM/blob/master/Images/mnum_euler.png) |
-|[Runge Kutta 2](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/RK2.py) | To add |
+|[Runge Kutta 2](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/RK2.py) | [Imagem](https://github.com/Jumaruba/MNUM/blob/master/Images/mnum_rk2.png) |
 |[Runge Kutta 4](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/RK4.py) | To add | 
 |[Runge Kutta 4 - superior order](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/RK4_Sistema_Ordem_superior.py) | To add |
 |[Runge Kutta 4 - systems](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/RK4_Sistemas_diferenciais.py) | To add |
