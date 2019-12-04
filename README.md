@@ -54,8 +54,8 @@ Some code from numeric methods (MIEIC 2st)
 ### Revisions
 
 #### Revision to the 2nd test
-[Enunciado](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Enunciado.pdf)
-[Questao_1](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Questao_1.py)
-[Questao_2](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Questao_2.py)
-[Questao_3](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Questao_3.py)
+[Enunciado](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Enunciado.pdf)  
+[Questao_1](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Questao_1.py)  
+[Questao_2](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Questao_2.py)  
+[Questao_3](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Questao_3.py)  
 
