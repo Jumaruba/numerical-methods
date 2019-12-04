@@ -55,6 +55,7 @@ Some code from numeric methods (MIEIC 2st)
 Here are some colected exercises for tests and exames to revision and test your knowledge. 
 
 ### Revision to the 2nd test
+This exercises does not include kaletsy and optimization.  
 [Enunciado](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Enunciado.pdf)  
 [Questao_1](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Questao_1.py)  
 [Questao_2](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Questao_2.py)  
