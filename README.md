@@ -51,7 +51,8 @@ Some code from numeric methods (MIEIC 2st)
 |[Runge Kutta 4 - systems](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/RK4_Sistemas_diferenciais.py) | To add |
 |[Runge Kutta 4 - superior order](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/RK4_Sistema_Ordem_superior.py) | [PDF](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/RK4_Ordem_Superior.pdf), obs: first must learn RK4 systems|
 
-## Revisions
+## Revisions  
+Here are some colected exercises for tests and exames to revision and test your knowledge. 
 
 ### Revision to the 2nd test
 [Enunciado](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Enunciado.pdf)  
