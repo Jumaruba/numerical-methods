@@ -51,3 +51,13 @@ Some code from numeric methods (MIEIC 2st)
 |[Runge Kutta 4 - systems](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/RK4_Sistemas_diferenciais.py) | To add |
 |[Runge Kutta 4 - superior order](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/RK4_Sistema_Ordem_superior.py) | [PDF](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/RK4_Ordem_Superior.pdf), obs: first must learn RK4 systems|
 
+## Revisions  
+Here are some colected exercises for tests and exames to revision and test your knowledge. 
+
+### Revision to the 2nd test
+These exercises do not include kaletsy algorithm and optimization.  
+[Enunciado](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Enunciado.pdf)  
+[Questao_1](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Questao_1.py)  
+[Questao_2](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Questao_2.py)  
+[Questao_3](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Questao_3.py)  
+
