@@ -49,5 +49,7 @@ def aurea_max(x1,x2, error):
             x2 = x2 
     return [x1,x2,x3,x4]
 
-print(aurea_min(-1,0,0.001))
+j = aurea_min(-1,0,0.001)
+k = [f(i) for  i in j]
+print(j[(k.index(min(k)))])
 print(aurea_max(-1,0,0.001))
