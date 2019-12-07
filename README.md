@@ -1,4 +1,4 @@
-# MNUM
+# Numerical Methods (MNUM)
 
 Some code from numeric methods (MIEIC 2st)
 
@@ -51,6 +51,12 @@ Some code from numeric methods (MIEIC 2st)
 |[Runge Kutta 4 - systems](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/RK4_Sistemas_diferenciais.py) | To add |
 |[Runge Kutta 4 - superior order](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/RK4_Sistema_Ordem_superior.py) | [PDF](https://github.com/Jumaruba/MNUM/blob/master/Diferenciais/RK4_Ordem_Superior.pdf), obs: first must learn RK4 systems|
 
+### Optimization - Python 
+|Method Name| Explanation|
+|---|---|
+|[Search/Golden Search](https://github.com/Jumaruba/MNUM/blob/master/Optimiza%C3%A7%C3%A3o/Pesquisa.py)| [PDF](https://github.com/Jumaruba/MNUM/blob/master/Optimiza%C3%A7%C3%A3o/Golden-Search.pdf) | 
+| [Quadrica](https://github.com/Jumaruba/MNUM/blob/master/Optimiza%C3%A7%C3%A3o/Quadrica.py) | To add | 
+| [Multidimensional/Gradient](https://github.com/Jumaruba/MNUM/blob/master/Optimiza%C3%A7%C3%A3o/Multidimensional_gradiente.py) | To add| 
 ## Revisions  
 Here are some colected exercises for tests and exames to revision and test your knowledge. 
 
