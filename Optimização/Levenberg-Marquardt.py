@@ -25,7 +25,7 @@ def levenberg(x,y, lamb):
         if ((x- x_ant <= 0) and (y - y_ant <= 0)):
             x_ant = x
             y_ant = y 
-        lamb /= 2 
+        lamb /= 2   #muito talvez isto seja dentro do if 
         print(x,y)
     return [x,y]
 
