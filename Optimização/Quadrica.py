@@ -16,7 +16,7 @@ def dfyx(x,y):
     return 0
 
 def quadrica(x,y):
-     
+    # se usar while loop da treta. Não sai do primeiro ciclo 
     for i in range(20): 
         x_ant = x
         y_ant = y 
