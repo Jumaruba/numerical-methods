@@ -14,7 +14,8 @@ def dfxy(x,y):
     return 0
 def dfyx(x,y): 
     return 0
-
+    
+#xn+1 = xn - invert(hessiana).gradient
 def quadrica(x,y):
     # se usar while loop da treta. Não sai do primeiro ciclo 
     for i in range(20): 

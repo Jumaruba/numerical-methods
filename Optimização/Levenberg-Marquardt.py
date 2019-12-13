@@ -13,6 +13,8 @@ def dfyx(x,y):
     return -2
 def dfxy(x,y): 
     return -2
+
+#xn+1  xn - invert(hessiana).gradient + lambda.gradiente
 def levenberg(x,y, lamb):
     x_ant = x 
     y_ant = y
