@@ -46,3 +46,5 @@ def levenberg(x, y, lamb):
 
 r = levenberg(1, 1, 1)
 print(f(r[0], r[1]))
+
+
