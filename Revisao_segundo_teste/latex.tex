@@ -1,0 +1,31 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Exercícios de optimização}
+\author{juliane.marubayashi@gmail.com}
+\date{December 2019}
+
+\begin{document}
+
+\maketitle
+
+Os exercícios neste documento são baseados nos dados em sala de aula
+\section{Exercicio: secção áurea}
+Utilizando o método da secção áurea, ache o valor mínimo e máximo da equação a seguir no intervalo [-1,0]:
+$$ f(x) = (2x+1)^2 -5cos(10x)$$ 
+
+\section{Exercicio: gradiente}
+Utilizando o método do gradiente encontre o mínimo da função a seguir no com h = 1, x0 = 1 e y0 = 1: 
+$$ f(x,y) = y^2 - 2xy - 6y + 2x^2 +12$$
+
+\section{Exercicio: Quádrica}
+Utilizando o método da quádrica, encontre o mínimo da equação seguinte considerando x0= 0 e y0= 0:
+$$ f(x,y) = sin(y)+ \frac{y^2}{4} + cos(x) + \frac{x^2}{4} -1$$
+Resposta: x = 0, y = -1,02987, f(x,y) = -0,59207
+
+\section{Exercicio: Levemberg Marquardt}
+Utilizando o método de Levemberg Marquardt, encontre o mínimo da equação a seguir considerando lambda = 1, x0 = 1, y0 = 1: 
+$$ f(x,y) = y^2-2xy -6y +2x^2+12$$
+Resposta: x = 2,9692650, y = 5,950269, f(x,y) = -5,998
+
+\end{document}
