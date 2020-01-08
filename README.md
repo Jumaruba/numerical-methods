@@ -63,10 +63,5 @@ Here are some colected exercises for tests and exames to revision and test your 
 
 ### Revision to the 2nd test
 These exercises do not include kaletsy algorithm.  
-[Enunciado](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Enunciado.pdf)  
-[Questao_1](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Questao_1.py)  
-[Questao_2](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Questao_2.py)  
-[Questao_3](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Questao_3.py)  
-[Optimização enunciado](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Enunciado_optimizacao.pdf) - With solutions  
-
+ [files](https://github.com/Jumaruba/MNUM/tree/master/Exames_testes)
 
