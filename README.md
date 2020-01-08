@@ -58,15 +58,17 @@ Some code from numeric methods (MIEIC 2st)
 | [Multidimensional/Quadrica](https://github.com/Jumaruba/MNUM/blob/master/Optimiza%C3%A7%C3%A3o/Quadrica.py) | To add | 
 | [Multidimensional/Gradient](https://github.com/Jumaruba/MNUM/blob/master/Optimiza%C3%A7%C3%A3o/Multidimensional_gradiente.py) | [PDF](https://github.com/Jumaruba/MNUM/blob/master/Optimiza%C3%A7%C3%A3o/Golden-Search.pdf)| 
 | [Multidimensional/Levenberg-Marquardt](https://github.com/Jumaruba/MNUM/blob/master/Optimiza%C3%A7%C3%A3o/Levenberg-Marquardt.py) | To add |
+
+## Jupyter notebook
+You can also check some jupyter notebook with the code: 
+- [Diferential equations](https://github.com/Jumaruba/MNUM/blob/master/Jupyter_notebooks/Diferenciais.ipynb)    
+- [Integrals](https://github.com/Jumaruba/MNUM/blob/master/Jupyter_notebooks/Integrais.ipynb)  
+- [Optimization](https://github.com/Jumaruba/MNUM/blob/master/Jupyter_notebooks/Optimiza%C3%A7%C3%A3o.ipynb)  
+
 ## Revisions  
 Here are some colected exercises for tests and exames to revision and test your knowledge. 
 
 ### Revision to the 2nd test
 These exercises do not include kaletsy algorithm.  
-[Enunciado](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Enunciado.pdf)  
-[Questao_1](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Questao_1.py)  
-[Questao_2](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Questao_2.py)  
-[Questao_3](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Questao_3.py)  
-[Optimização enunciado](https://github.com/Jumaruba/MNUM/blob/master/Revisao_segundo_teste/Enunciado_optimizacao.pdf) - With solutions  
-
+ [files](https://github.com/Jumaruba/MNUM/tree/master/Exames_testes)
 
