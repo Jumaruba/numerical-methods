@@ -29,7 +29,7 @@ def sistema(a,b,xn_1,yn_1,zn_1,h):
 
         yn_1 = yn +1/6*delta_y1 + 1/3*delta_y2 + 1/3*delta_y3 + 1/6*delta_y4
         zn_1 = zn +1/6*delta_z1 + 1/3*delta_z2 + 1/3*delta_z3 + 1/6*delta_z4
-    print("%.10f" %xn_1)    
+    print ("X = %.5f || Y = %.5f || Z = %.5f" %(xn_1,yn_1,zn_1)) 
     return [yn_1, zn_1]
 
 

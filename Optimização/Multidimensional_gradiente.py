@@ -1,13 +1,13 @@
 def f(x, y):
-    return y * y - 2 * x * y - 6 * y + 2 * x * x + 12
+    return y*y - 2*x*y - 6*y + 2*x*x + 12
 
 
 def fx(x, y):
-    return 4 * x - 2 * y
+    return -2*y + 4*x
 
 
 def fy(x, y):
-    return 2 * y - 2 * x - 6
+    return 2*y - 2*y - 6
 
 
 def gradient(x, y, h):
@@ -24,10 +24,10 @@ def gradient(x, y, h):
 
         if f(xn, yn) > f(x, y):
             h /= 2
-        print("%.10f, %.10f" % (xn, yn))
+        #print("%.10f, %.10f" % (xn, yn))
     return [x, y]
 
 
-print(gradient(1, 1, 1))
+print(gradient(3, 1, 0.1))
 k = gradient(1, 1, 1)
 print(f(k[0], k[1]))
