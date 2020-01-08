@@ -65,13 +65,21 @@ You can also check some jupyter notebook with the code:
 - [Integrals](https://github.com/Jumaruba/MNUM/blob/master/Jupyter_notebooks/Integrais.ipynb)  
 - [Optimization](https://github.com/Jumaruba/MNUM/blob/master/Jupyter_notebooks/Optimiza%C3%A7%C3%A3o.ipynb)  
 
-## Revisions  
+# Revisions  
 Here are some colected exercises for tests and exames to revision and test your knowledge.
 
 ## Levenberg Marquadt revision 
 - [Questions](https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Revisao_teste2.3/MIEIC_Optimizacao_Aula_13_12_2019.pdf)
 - [Question_1 solution](https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Revisao_teste2.3/Question_1.ipynb)
 - [Question_2 soltuion](https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Revisao_teste2.3/Question_2.ipynb)
+
+## Optmization exercises 
+- [Questions](https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Optimization_exercises/Enunciado.pdf)   
+- [Question_1 solution](https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Optimization_exercises/Question_1.ipynb)   
+- [Question_2 solution](https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Optimization_exercises/Question_2.ipynb)  
+- [Question_3 solution]
+(https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Optimization_exercises/Question_3.ipynb)  
+- [Question_4 solution](https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Optimization_exercises/Question_4.ipynb)  
 
 ### Revision to the 2nd test
 These exercises do not include kaletsy algorithm.  
