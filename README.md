@@ -66,7 +66,12 @@ You can also check some jupyter notebook with the code:
 - [Optimization](https://github.com/Jumaruba/MNUM/blob/master/Jupyter_notebooks/Optimiza%C3%A7%C3%A3o.ipynb)  
 
 ## Revisions  
-Here are some colected exercises for tests and exames to revision and test your knowledge. 
+Here are some colected exercises for tests and exames to revision and test your knowledge.
+
+## Levenberg Marquadt revision 
+- [Questions](https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Revisao_teste2.3/MIEIC_Optimizacao_Aula_13_12_2019.pdf)
+- [Question_1 solution](https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Revisao_teste2.3/Question_1.ipynb)
+- [Question_2 soltuion](https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Revisao_teste2.3/Question_2.ipynb)
 
 ### Revision to the 2nd test
 These exercises do not include kaletsy algorithm.  
