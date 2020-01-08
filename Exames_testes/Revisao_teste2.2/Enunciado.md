@@ -51,7 +51,7 @@ c) Calcule o erro dos métodos.
 
 $$\left\{\begin{matrix}
 y' = zy + x\\ 
-y' = zx+y
+z' = zx+y
 \end{matrix}\right.$$
 
 a) Resolva o sistema de equações diferenciais utilizando RK4 no intervalo [0, 0.5], com x0 = 0, y0 = 0, z0 = 1 e h= 0.1. 
