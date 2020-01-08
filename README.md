@@ -82,5 +82,5 @@ Here are some colected exercises for tests and exames to revision and test your 
 
 ### Revision to the 2nd test
 These exercises do not include kaletsy algorithm.  
- [Questions](https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Revisao_teste2.2/Enunciado.pdf)  
- [Solutions](https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Revisao_teste2.2/Solutions.ipynb)
+- [Questions](https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Revisao_teste2.2/Enunciado.pdf)  
+- [Solutions](https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Revisao_teste2.2/Solutions.ipynb)
