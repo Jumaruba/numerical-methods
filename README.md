@@ -77,8 +77,7 @@ Here are some colected exercises for tests and exames to revision and test your 
 - [Questions](https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Optimization_exercises/Enunciado.pdf)   
 - [Question_1 solution](https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Optimization_exercises/Question_1.ipynb)   
 - [Question_2 solution](https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Optimization_exercises/Question_2.ipynb)  
-- [Question_3 solution]
-(https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Optimization_exercises/Question_3.ipynb)  
+- [Question_3 solution](https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Optimization_exercises/Question_3.ipynb)  
 - [Question_4 solution](https://github.com/Jumaruba/MNUM/blob/master/Exames_testes/Optimization_exercises/Question_4.ipynb)  
 
 ### Revision to the 2nd test
