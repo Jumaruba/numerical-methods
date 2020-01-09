@@ -8,7 +8,7 @@ def f(x):
 # estamos procurando pelo minimo local
 def pesquisa(guess, step):
     if f(guess) < f(guess + step):
-        step -= step
+        step = -step
 
     x0 = guess
     x1 = guess + step
