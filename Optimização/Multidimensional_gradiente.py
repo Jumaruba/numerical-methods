@@ -7,7 +7,7 @@ def fx(x, y):
 
 
 def fy(x, y):
-    return 2*y - 2*y - 6
+    return 2*y - 2*x - 6
 
 
 def gradient(x, y, h):
