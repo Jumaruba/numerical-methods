@@ -35,7 +35,7 @@ def levenberg(x, y, lamb):
         x = x_ant - (dfyy(x_ant, y_ant) * dfx(x_ant, y_ant) - dfxy(x_ant, y_ant) * dfy(x_ant, y_ant)) / det - lamb * (
 
             dfx(x_ant, y_ant))
-        y = y_ant - (-dfxy(x_ant, y_ant) * dfx(x_ant, y_ant) + dfxx(x_ant, y_ant) * dfy(x_ant,
+        y = y_ant - (-dfyx(x_ant, y_ant) * dfx(x_ant, y_ant) + dfxx(x_ant, y_ant) * dfy(x_ant,
                                                                                         y_ant)) / det - lamb * dfy(
             x_ant, y_ant)
         if f(x_ant, y_ant) > f(x, y):
