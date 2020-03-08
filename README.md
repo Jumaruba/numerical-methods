@@ -1,7 +1,8 @@
 # Numerical Methods (MNUM)
 
-Some code from numeric methods (MIEIC 2st)
-
+Some code from numeric methods (MIEIC 2st)  
+Final Grade: 18  
+[Subject Goals](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436436)
 
 ## Content
 
