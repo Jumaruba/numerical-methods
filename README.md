@@ -4,9 +4,11 @@ Some code from numeric methods (MIEIC 2st)
 Final Grade: 18  
 [Subject Goals](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436436)
 
-## Content
+## Table of contents 
+- [Zeros of functions C++](#zeros-c)  
 
-### Zeros of functions - C++
+<a name="zeros-c"></a> 
+### Zeros of functions C++
 
 |Method name| Explanation|
 |---|---|
