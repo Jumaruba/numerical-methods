@@ -1,8 +1,10 @@
-# Numerical Methods (MNUM)
+<h2 align="center"> Numerical Methods (MNUM) </h2> 
 
-Explanation and code for classes of numerical methods.  
+<p align="center"> Explanation and code for classes of numerical methods</p> 
 
-Final Grade: 18  
+<p align="center"> Final Grade: 18   </p> 
+
+
 [Subject Goals](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436436)
 
 # Table of contents 
